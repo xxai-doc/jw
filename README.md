@@ -7,3 +7,4 @@ Kode ngarep situs web mbukak sumber, sugeng rawuh kanggo ngoptimalake terjemahan
 * [kode ngarep-mburi](https://github.com/xxai-art/web)
 * [Paket basa kanggo situs kanthi sakabehe](https://github.com/xxai-art/web/tree/main/i18n)
 * [Paket basa kanggo modul mlebu](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Website Multilingual Documentation](https://github.com/xxai-doc)
