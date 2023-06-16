@@ -17,14 +17,14 @@ Ing ngarep-mburi basa program punika [@w5/coffee_plus](http://npmjs.com/@w5/coff
 
 Mbangun ing 3 proyek ing ngisor iki
 
-### [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
+* [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
 
-Cithakan markdown, kanthi seselan `.mdt` , bisa ngrujuk menyang file eksternal kanthi sintaks sing padha karo `<+ ./coffee_plus/import.js>` .
+  Seselan yaiku `.mdt` , sampeyan bisa nggunakake sintaks sing padha karo `<+ ./coffee_plus/import.js>` kanggo ngrujuk menyang file eksternal, lan ngasilake markdown kanthi seselan `.md` .
 
-[@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
+* [@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
 
-Terjemahan Markdown ora bakal nerjemahake kode lan pranala, lan bakal nyimpen ukara terjemahan. Yen terjemahan diowahi nanging teks asli ora diowahi, eksekusi maneh ora bakal nimpa modifikasi terjemahan kasebut.
+  Terjemahan Markdown ora bakal nerjemahake kode lan pranala, lan bakal nyimpen ukara terjemahan. Yen terjemahan diowahi nanging teks asli ora diowahi, eksekusi maneh ora bakal nimpa modifikasi terjemahan kasebut.
 
-[@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
+* [@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
 
-File basa kanggo nerjemahake situs web sing digawe `yaml` .
+  File basa kanggo nerjemahake situs web sing digawe `yaml` .
